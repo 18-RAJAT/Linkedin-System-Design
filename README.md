@@ -3,7 +3,8 @@
 A scalable and secure cloud-based networking platform inspired by LinkedIn, designed to facilitate professional connections, job search, and member engagement. This platform supports job postings, company pages, groups, content creation, messaging, and more, enabling professionals to connect, share content, and engage with each other. Deployed on AWS and Vercel, and powered by a React frontend, this platform integrates a variety of AWS services and databases optimized for both social connections and job search capabilities.
 
 ---
-![(LinkedInConnect)](https://github.com/user-attachments/assets/6ca3cc69-c99b-45d8-8a7b-bf1a28c7b17a)
+![LinkedInConnect](https://github.com/user-attachments/assets/e0b8d3f8-4c1a-47a0-9a88-6c80d397550b)
+
 ---
 
 ## Table of Contents
